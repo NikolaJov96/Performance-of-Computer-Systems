@@ -1,0 +1,945 @@
+K = 2, N = 10
+
+processor:
+utilization: Ua/Us = 0.047490%
+flow: Xa/Xs = 0.047490%
+average jobs: Ja/Js = 0.083313%
+
+system disk 0:
+utilization: Ua/Us = 0.054862%
+flow: Xa/Xs = 0.054862%
+average jobs: Ja/Js = 0.036977%
+
+system disk 1:
+utilization: Ua/Us = -0.094753%
+flow: Xa/Xs = -0.094753%
+average jobs: Ja/Js = -0.033933%
+
+user disk 0:
+utilization: Ua/Us = 0.100120%
+flow: Xa/Xs = 0.100120%
+average jobs: Ja/Js = -0.283318%
+
+user disk 1:
+utilization: Ua/Us = -0.078605%
+flow: Xa/Xs = -0.078605%
+average jobs: Ja/Js = -1.005189%
+
+System reaction time: Ra/Rs = -0.001592%
+
+
+K = 2, N = 15
+
+processor:
+utilization: Ua/Us = -0.150761%
+flow: Xa/Xs = -0.150761%
+average jobs: Ja/Js = -0.225482%
+
+system disk 0:
+utilization: Ua/Us = -0.423821%
+flow: Xa/Xs = -0.423821%
+average jobs: Ja/Js = -0.408291%
+
+system disk 1:
+utilization: Ua/Us = -0.255396%
+flow: Xa/Xs = -0.255396%
+average jobs: Ja/Js = -0.213096%
+
+user disk 0:
+utilization: Ua/Us = -0.057550%
+flow: Xa/Xs = -0.057550%
+average jobs: Ja/Js = -0.387608%
+
+user disk 1:
+utilization: Ua/Us = -0.040531%
+flow: Xa/Xs = -0.040531%
+average jobs: Ja/Js = -0.062944%
+
+System reaction time: Ra/Rs = 0.166392%
+
+
+K = 2, N = 25
+
+processor:
+utilization: Ua/Us = 0.032864%
+flow: Xa/Xs = 0.032864%
+average jobs: Ja/Js = 0.099876%
+
+system disk 0:
+utilization: Ua/Us = -0.310199%
+flow: Xa/Xs = -0.310199%
+average jobs: Ja/Js = -0.316246%
+
+system disk 1:
+utilization: Ua/Us = -0.161920%
+flow: Xa/Xs = -0.161920%
+average jobs: Ja/Js = -0.355898%
+
+user disk 0:
+utilization: Ua/Us = 0.054064%
+flow: Xa/Xs = 0.054064%
+average jobs: Ja/Js = 0.351874%
+
+user disk 1:
+utilization: Ua/Us = -0.041581%
+flow: Xa/Xs = -0.041581%
+average jobs: Ja/Js = -0.514166%
+
+System reaction time: Ra/Rs = 0.028484%
+
+
+K = 3, N = 10
+
+processor:
+utilization: Ua/Us = 0.039626%
+flow: Xa/Xs = 0.039626%
+average jobs: Ja/Js = 0.076460%
+
+system disk 0:
+utilization: Ua/Us = -0.269323%
+flow: Xa/Xs = -0.269323%
+average jobs: Ja/Js = -0.338472%
+
+system disk 1:
+utilization: Ua/Us = 0.049561%
+flow: Xa/Xs = 0.049561%
+average jobs: Ja/Js = -0.043432%
+
+user disk 0:
+utilization: Ua/Us = 0.001219%
+flow: Xa/Xs = 0.001219%
+average jobs: Ja/Js = -0.168980%
+
+user disk 1:
+utilization: Ua/Us = 0.036042%
+flow: Xa/Xs = 0.036042%
+average jobs: Ja/Js = -0.023307%
+
+user disk 2:
+utilization: Ua/Us = 0.004382%
+flow: Xa/Xs = 0.004382%
+average jobs: Ja/Js = -0.128971%
+
+System reaction time: Ra/Rs = -0.005691%
+
+
+K = 3, N = 15
+
+processor:
+utilization: Ua/Us = 0.126154%
+flow: Xa/Xs = 0.126154%
+average jobs: Ja/Js = 0.253101%
+
+system disk 0:
+utilization: Ua/Us = 0.086382%
+flow: Xa/Xs = 0.086382%
+average jobs: Ja/Js = 0.061186%
+
+system disk 1:
+utilization: Ua/Us = -0.042109%
+flow: Xa/Xs = -0.042109%
+average jobs: Ja/Js = -0.138839%
+
+user disk 0:
+utilization: Ua/Us = 0.140180%
+flow: Xa/Xs = 0.140180%
+average jobs: Ja/Js = 0.163091%
+
+user disk 1:
+utilization: Ua/Us = -0.098984%
+flow: Xa/Xs = -0.098984%
+average jobs: Ja/Js = -0.707132%
+
+user disk 2:
+utilization: Ua/Us = 0.206706%
+flow: Xa/Xs = 0.206706%
+average jobs: Ja/Js = 0.326138%
+
+System reaction time: Ra/Rs = -0.088218%
+
+
+K = 3, N = 25
+
+processor:
+utilization: Ua/Us = -0.008339%
+flow: Xa/Xs = -0.008339%
+average jobs: Ja/Js = -0.001464%
+
+system disk 0:
+utilization: Ua/Us = 0.074080%
+flow: Xa/Xs = 0.074080%
+average jobs: Ja/Js = 0.087940%
+
+system disk 1:
+utilization: Ua/Us = 0.012828%
+flow: Xa/Xs = 0.012828%
+average jobs: Ja/Js = -0.220727%
+
+user disk 0:
+utilization: Ua/Us = 0.014160%
+flow: Xa/Xs = 0.014160%
+average jobs: Ja/Js = 0.185019%
+
+user disk 1:
+utilization: Ua/Us = -0.080983%
+flow: Xa/Xs = -0.080983%
+average jobs: Ja/Js = -0.046454%
+
+user disk 2:
+utilization: Ua/Us = -0.050834%
+flow: Xa/Xs = -0.050834%
+average jobs: Ja/Js = -0.135636%
+
+System reaction time: Ra/Rs = 0.012169%
+
+
+K = 4, N = 10
+
+processor:
+utilization: Ua/Us = -0.011106%
+flow: Xa/Xs = -0.011106%
+average jobs: Ja/Js = -0.076883%
+
+system disk 0:
+utilization: Ua/Us = 0.006042%
+flow: Xa/Xs = 0.006042%
+average jobs: Ja/Js = -0.078340%
+
+system disk 1:
+utilization: Ua/Us = 0.075939%
+flow: Xa/Xs = 0.075939%
+average jobs: Ja/Js = 0.035478%
+
+user disk 0:
+utilization: Ua/Us = -0.153391%
+flow: Xa/Xs = -0.153391%
+average jobs: Ja/Js = -0.438173%
+
+user disk 1:
+utilization: Ua/Us = 0.130630%
+flow: Xa/Xs = 0.130630%
+average jobs: Ja/Js = 0.183068%
+
+user disk 2:
+utilization: Ua/Us = 0.042381%
+flow: Xa/Xs = 0.042381%
+average jobs: Ja/Js = 0.239301%
+
+user disk 3:
+utilization: Ua/Us = 0.061864%
+flow: Xa/Xs = 0.061864%
+average jobs: Ja/Js = -0.032321%
+
+System reaction time: Ra/Rs = -0.016173%
+
+
+K = 4, N = 15
+
+processor:
+utilization: Ua/Us = -0.030677%
+flow: Xa/Xs = -0.030677%
+average jobs: Ja/Js = -0.038322%
+
+system disk 0:
+utilization: Ua/Us = 0.005826%
+flow: Xa/Xs = 0.005826%
+average jobs: Ja/Js = 0.013075%
+
+system disk 1:
+utilization: Ua/Us = -0.080780%
+flow: Xa/Xs = -0.080780%
+average jobs: Ja/Js = -0.151695%
+
+user disk 0:
+utilization: Ua/Us = 0.042201%
+flow: Xa/Xs = 0.042201%
+average jobs: Ja/Js = 0.124994%
+
+user disk 1:
+utilization: Ua/Us = 0.063971%
+flow: Xa/Xs = 0.063971%
+average jobs: Ja/Js = 0.181512%
+
+user disk 2:
+utilization: Ua/Us = -0.002129%
+flow: Xa/Xs = -0.002129%
+average jobs: Ja/Js = -0.011181%
+
+user disk 3:
+utilization: Ua/Us = -0.112170%
+flow: Xa/Xs = -0.112170%
+average jobs: Ja/Js = -0.227614%
+
+System reaction time: Ra/Rs = 0.012158%
+
+
+K = 4, N = 25
+
+processor:
+utilization: Ua/Us = 0.006614%
+flow: Xa/Xs = 0.006614%
+average jobs: Ja/Js = -0.045954%
+
+system disk 0:
+utilization: Ua/Us = -0.141009%
+flow: Xa/Xs = -0.141009%
+average jobs: Ja/Js = -0.169923%
+
+system disk 1:
+utilization: Ua/Us = 0.001425%
+flow: Xa/Xs = 0.001425%
+average jobs: Ja/Js = -0.102003%
+
+user disk 0:
+utilization: Ua/Us = -0.062429%
+flow: Xa/Xs = -0.062429%
+average jobs: Ja/Js = -0.018235%
+
+user disk 1:
+utilization: Ua/Us = -0.087280%
+flow: Xa/Xs = -0.087280%
+average jobs: Ja/Js = -0.134205%
+
+user disk 2:
+utilization: Ua/Us = 0.053186%
+flow: Xa/Xs = 0.053186%
+average jobs: Ja/Js = 0.467162%
+
+user disk 3:
+utilization: Ua/Us = -0.024230%
+flow: Xa/Xs = -0.024230%
+average jobs: Ja/Js = -0.167383%
+
+System reaction time: Ra/Rs = 0.015003%
+
+
+K = 5, N = 10
+
+processor:
+utilization: Ua/Us = -0.019929%
+flow: Xa/Xs = -0.019929%
+average jobs: Ja/Js = -0.034478%
+
+system disk 0:
+utilization: Ua/Us = -0.093539%
+flow: Xa/Xs = -0.093539%
+average jobs: Ja/Js = -0.038853%
+
+system disk 1:
+utilization: Ua/Us = -0.097409%
+flow: Xa/Xs = -0.097409%
+average jobs: Ja/Js = -0.169211%
+
+user disk 0:
+utilization: Ua/Us = -0.103562%
+flow: Xa/Xs = -0.103562%
+average jobs: Ja/Js = -0.139461%
+
+user disk 1:
+utilization: Ua/Us = -0.113665%
+flow: Xa/Xs = -0.113665%
+average jobs: Ja/Js = -0.174311%
+
+user disk 2:
+utilization: Ua/Us = 0.023041%
+flow: Xa/Xs = 0.023041%
+average jobs: Ja/Js = -0.090950%
+
+user disk 3:
+utilization: Ua/Us = 0.131986%
+flow: Xa/Xs = 0.131986%
+average jobs: Ja/Js = 0.363480%
+
+user disk 4:
+utilization: Ua/Us = 0.067757%
+flow: Xa/Xs = 0.067757%
+average jobs: Ja/Js = -0.014711%
+
+System reaction time: Ra/Rs = 0.006927%
+
+
+K = 5, N = 15
+
+processor:
+utilization: Ua/Us = 0.004892%
+flow: Xa/Xs = 0.004892%
+average jobs: Ja/Js = -0.112766%
+
+system disk 0:
+utilization: Ua/Us = 0.031691%
+flow: Xa/Xs = 0.031691%
+average jobs: Ja/Js = -0.030545%
+
+system disk 1:
+utilization: Ua/Us = 0.089698%
+flow: Xa/Xs = 0.089698%
+average jobs: Ja/Js = 0.010050%
+
+user disk 0:
+utilization: Ua/Us = -0.080005%
+flow: Xa/Xs = -0.080005%
+average jobs: Ja/Js = -0.160112%
+
+user disk 1:
+utilization: Ua/Us = 0.031665%
+flow: Xa/Xs = 0.031665%
+average jobs: Ja/Js = 0.173094%
+
+user disk 2:
+utilization: Ua/Us = -0.034635%
+flow: Xa/Xs = -0.034635%
+average jobs: Ja/Js = 0.090718%
+
+user disk 3:
+utilization: Ua/Us = 0.078587%
+flow: Xa/Xs = 0.078587%
+average jobs: Ja/Js = 0.129057%
+
+user disk 4:
+utilization: Ua/Us = 0.058088%
+flow: Xa/Xs = 0.058088%
+average jobs: Ja/Js = 0.070371%
+
+System reaction time: Ra/Rs = -0.054368%
+
+
+K = 5, N = 25
+
+processor:
+utilization: Ua/Us = -0.009293%
+flow: Xa/Xs = -0.009293%
+average jobs: Ja/Js = -0.189193%
+
+system disk 0:
+utilization: Ua/Us = -0.027900%
+flow: Xa/Xs = -0.027900%
+average jobs: Ja/Js = 0.000982%
+
+system disk 1:
+utilization: Ua/Us = -0.184500%
+flow: Xa/Xs = -0.184500%
+average jobs: Ja/Js = -0.534830%
+
+user disk 0:
+utilization: Ua/Us = -0.028952%
+flow: Xa/Xs = -0.028952%
+average jobs: Ja/Js = 0.294893%
+
+user disk 1:
+utilization: Ua/Us = 0.063032%
+flow: Xa/Xs = 0.063032%
+average jobs: Ja/Js = 0.445812%
+
+user disk 2:
+utilization: Ua/Us = 0.040732%
+flow: Xa/Xs = 0.040732%
+average jobs: Ja/Js = 0.441766%
+
+user disk 3:
+utilization: Ua/Us = -0.064663%
+flow: Xa/Xs = -0.064663%
+average jobs: Ja/Js = 0.079453%
+
+user disk 4:
+utilization: Ua/Us = 0.045391%
+flow: Xa/Xs = 0.045391%
+average jobs: Ja/Js = 0.153529%
+
+System reaction time: Ra/Rs = 0.005620%
+
+
+K = 6, N = 10
+
+processor:
+utilization: Ua/Us = -0.054973%
+flow: Xa/Xs = -0.054973%
+average jobs: Ja/Js = -0.208058%
+
+system disk 0:
+utilization: Ua/Us = -0.079321%
+flow: Xa/Xs = -0.079321%
+average jobs: Ja/Js = -0.102702%
+
+system disk 1:
+utilization: Ua/Us = -0.132178%
+flow: Xa/Xs = -0.132178%
+average jobs: Ja/Js = -0.226035%
+
+user disk 0:
+utilization: Ua/Us = -0.018505%
+flow: Xa/Xs = -0.018505%
+average jobs: Ja/Js = 0.171987%
+
+user disk 1:
+utilization: Ua/Us = -0.057790%
+flow: Xa/Xs = -0.057790%
+average jobs: Ja/Js = -0.122487%
+
+user disk 2:
+utilization: Ua/Us = 0.071349%
+flow: Xa/Xs = 0.071349%
+average jobs: Ja/Js = 0.404601%
+
+user disk 3:
+utilization: Ua/Us = -0.075629%
+flow: Xa/Xs = -0.075629%
+average jobs: Ja/Js = -0.020545%
+
+user disk 4:
+utilization: Ua/Us = -0.090905%
+flow: Xa/Xs = -0.090905%
+average jobs: Ja/Js = -0.106989%
+
+user disk 5:
+utilization: Ua/Us = 0.132931%
+flow: Xa/Xs = 0.132931%
+average jobs: Ja/Js = 0.255992%
+
+System reaction time: Ra/Rs = 0.040371%
+
+
+K = 6, N = 15
+
+processor:
+utilization: Ua/Us = 0.031557%
+flow: Xa/Xs = 0.031557%
+average jobs: Ja/Js = 0.103080%
+
+system disk 0:
+utilization: Ua/Us = -0.115515%
+flow: Xa/Xs = -0.115515%
+average jobs: Ja/Js = -0.196927%
+
+system disk 1:
+utilization: Ua/Us = -0.030399%
+flow: Xa/Xs = -0.030399%
+average jobs: Ja/Js = 0.066562%
+
+user disk 0:
+utilization: Ua/Us = -0.029823%
+flow: Xa/Xs = -0.029823%
+average jobs: Ja/Js = -0.020276%
+
+user disk 1:
+utilization: Ua/Us = -0.044729%
+flow: Xa/Xs = -0.044729%
+average jobs: Ja/Js = 0.123052%
+
+user disk 2:
+utilization: Ua/Us = -0.108234%
+flow: Xa/Xs = -0.108234%
+average jobs: Ja/Js = -0.289178%
+
+user disk 3:
+utilization: Ua/Us = -0.140573%
+flow: Xa/Xs = -0.140573%
+average jobs: Ja/Js = -0.263059%
+
+user disk 4:
+utilization: Ua/Us = -0.121757%
+flow: Xa/Xs = -0.121757%
+average jobs: Ja/Js = -0.332906%
+
+user disk 5:
+utilization: Ua/Us = 0.120706%
+flow: Xa/Xs = 0.120706%
+average jobs: Ja/Js = 0.014885%
+
+System reaction time: Ra/Rs = 0.020588%
+
+
+K = 6, N = 25
+
+processor:
+utilization: Ua/Us = 0.000820%
+flow: Xa/Xs = 0.000820%
+average jobs: Ja/Js = 0.021397%
+
+system disk 0:
+utilization: Ua/Us = -0.201405%
+flow: Xa/Xs = -0.201405%
+average jobs: Ja/Js = -0.174750%
+
+system disk 1:
+utilization: Ua/Us = 0.107757%
+flow: Xa/Xs = 0.107757%
+average jobs: Ja/Js = 0.208273%
+
+user disk 0:
+utilization: Ua/Us = -0.114928%
+flow: Xa/Xs = -0.114928%
+average jobs: Ja/Js = -0.196309%
+
+user disk 1:
+utilization: Ua/Us = 0.033546%
+flow: Xa/Xs = 0.033546%
+average jobs: Ja/Js = 0.137658%
+
+user disk 2:
+utilization: Ua/Us = 0.137705%
+flow: Xa/Xs = 0.137705%
+average jobs: Ja/Js = 0.436293%
+
+user disk 3:
+utilization: Ua/Us = -0.218360%
+flow: Xa/Xs = -0.218360%
+average jobs: Ja/Js = -0.574040%
+
+user disk 4:
+utilization: Ua/Us = -0.112742%
+flow: Xa/Xs = -0.112742%
+average jobs: Ja/Js = -0.082394%
+
+user disk 5:
+utilization: Ua/Us = -0.077292%
+flow: Xa/Xs = -0.077292%
+average jobs: Ja/Js = -0.210151%
+
+System reaction time: Ra/Rs = 0.031039%
+
+
+K = 7, N = 10
+
+processor:
+utilization: Ua/Us = -0.014483%
+flow: Xa/Xs = -0.014483%
+average jobs: Ja/Js = -0.149345%
+
+system disk 0:
+utilization: Ua/Us = -0.118930%
+flow: Xa/Xs = -0.118930%
+average jobs: Ja/Js = -0.191249%
+
+system disk 1:
+utilization: Ua/Us = -0.229160%
+flow: Xa/Xs = -0.229160%
+average jobs: Ja/Js = -0.484698%
+
+user disk 0:
+utilization: Ua/Us = 0.052950%
+flow: Xa/Xs = 0.052950%
+average jobs: Ja/Js = 0.006447%
+
+user disk 1:
+utilization: Ua/Us = -0.012789%
+flow: Xa/Xs = -0.012789%
+average jobs: Ja/Js = -0.132253%
+
+user disk 2:
+utilization: Ua/Us = -0.099424%
+flow: Xa/Xs = -0.099424%
+average jobs: Ja/Js = -0.076900%
+
+user disk 3:
+utilization: Ua/Us = 0.217167%
+flow: Xa/Xs = 0.217167%
+average jobs: Ja/Js = 0.523322%
+
+user disk 4:
+utilization: Ua/Us = 0.067338%
+flow: Xa/Xs = 0.067338%
+average jobs: Ja/Js = 0.208925%
+
+user disk 5:
+utilization: Ua/Us = 0.090813%
+flow: Xa/Xs = 0.090813%
+average jobs: Ja/Js = 0.203906%
+
+user disk 6:
+utilization: Ua/Us = -0.050634%
+flow: Xa/Xs = -0.050634%
+average jobs: Ja/Js = -0.027482%
+
+System reaction time: Ra/Rs = 0.010731%
+
+
+K = 7, N = 15
+
+processor:
+utilization: Ua/Us = 0.006674%
+flow: Xa/Xs = 0.006674%
+average jobs: Ja/Js = 0.042571%
+
+system disk 0:
+utilization: Ua/Us = -0.198468%
+flow: Xa/Xs = -0.198468%
+average jobs: Ja/Js = -0.179041%
+
+system disk 1:
+utilization: Ua/Us = -0.028297%
+flow: Xa/Xs = -0.028297%
+average jobs: Ja/Js = 0.087447%
+
+user disk 0:
+utilization: Ua/Us = -0.059699%
+flow: Xa/Xs = -0.059699%
+average jobs: Ja/Js = -0.134838%
+
+user disk 1:
+utilization: Ua/Us = -0.107551%
+flow: Xa/Xs = -0.107551%
+average jobs: Ja/Js = -0.114243%
+
+user disk 2:
+utilization: Ua/Us = -0.155631%
+flow: Xa/Xs = -0.155631%
+average jobs: Ja/Js = -0.145536%
+
+user disk 3:
+utilization: Ua/Us = -0.110496%
+flow: Xa/Xs = -0.110496%
+average jobs: Ja/Js = -0.212337%
+
+user disk 4:
+utilization: Ua/Us = -0.072705%
+flow: Xa/Xs = -0.072705%
+average jobs: Ja/Js = -0.286269%
+
+user disk 5:
+utilization: Ua/Us = -0.000704%
+flow: Xa/Xs = -0.000704%
+average jobs: Ja/Js = 0.084076%
+
+user disk 6:
+utilization: Ua/Us = 0.000779%
+flow: Xa/Xs = 0.000779%
+average jobs: Ja/Js = 0.094435%
+
+System reaction time: Ra/Rs = 0.024121%
+
+
+K = 7, N = 25
+
+processor:
+utilization: Ua/Us = 0.000500%
+flow: Xa/Xs = 0.000500%
+average jobs: Ja/Js = -0.050835%
+
+system disk 0:
+utilization: Ua/Us = -0.001359%
+flow: Xa/Xs = -0.001359%
+average jobs: Ja/Js = -0.106287%
+
+system disk 1:
+utilization: Ua/Us = 0.224113%
+flow: Xa/Xs = 0.224113%
+average jobs: Ja/Js = 0.537605%
+
+user disk 0:
+utilization: Ua/Us = 0.123094%
+flow: Xa/Xs = 0.123094%
+average jobs: Ja/Js = 0.258893%
+
+user disk 1:
+utilization: Ua/Us = -0.207054%
+flow: Xa/Xs = -0.207054%
+average jobs: Ja/Js = -0.131588%
+
+user disk 2:
+utilization: Ua/Us = 0.118792%
+flow: Xa/Xs = 0.118792%
+average jobs: Ja/Js = 0.403043%
+
+user disk 3:
+utilization: Ua/Us = 0.056530%
+flow: Xa/Xs = 0.056530%
+average jobs: Ja/Js = 0.241925%
+
+user disk 4:
+utilization: Ua/Us = -0.141483%
+flow: Xa/Xs = -0.141483%
+average jobs: Ja/Js = -0.321911%
+
+user disk 5:
+utilization: Ua/Us = -0.176352%
+flow: Xa/Xs = -0.176352%
+average jobs: Ja/Js = -0.148196%
+
+user disk 6:
+utilization: Ua/Us = -0.113819%
+flow: Xa/Xs = -0.113819%
+average jobs: Ja/Js = -0.135456%
+
+System reaction time: Ra/Rs = 0.029922%
+
+
+K = 8, N = 10
+
+processor:
+utilization: Ua/Us = -0.019914%
+flow: Xa/Xs = -0.019914%
+average jobs: Ja/Js = -0.178518%
+
+system disk 0:
+utilization: Ua/Us = 0.043478%
+flow: Xa/Xs = 0.043478%
+average jobs: Ja/Js = 0.088451%
+
+system disk 1:
+utilization: Ua/Us = 0.162627%
+flow: Xa/Xs = 0.162627%
+average jobs: Ja/Js = 0.162420%
+
+user disk 0:
+utilization: Ua/Us = 0.062347%
+flow: Xa/Xs = 0.062347%
+average jobs: Ja/Js = 0.072782%
+
+user disk 1:
+utilization: Ua/Us = -0.192870%
+flow: Xa/Xs = -0.192870%
+average jobs: Ja/Js = -0.081725%
+
+user disk 2:
+utilization: Ua/Us = -0.121756%
+flow: Xa/Xs = -0.121756%
+average jobs: Ja/Js = -0.345089%
+
+user disk 3:
+utilization: Ua/Us = 0.182696%
+flow: Xa/Xs = 0.182696%
+average jobs: Ja/Js = 0.266377%
+
+user disk 4:
+utilization: Ua/Us = -0.094836%
+flow: Xa/Xs = -0.094836%
+average jobs: Ja/Js = -0.193187%
+
+user disk 5:
+utilization: Ua/Us = 0.014867%
+flow: Xa/Xs = 0.014867%
+average jobs: Ja/Js = 0.102518%
+
+user disk 6:
+utilization: Ua/Us = -0.063157%
+flow: Xa/Xs = -0.063157%
+average jobs: Ja/Js = -0.082285%
+
+user disk 7:
+utilization: Ua/Us = 0.169769%
+flow: Xa/Xs = 0.169769%
+average jobs: Ja/Js = 0.327040%
+
+System reaction time: Ra/Rs = -0.005164%
+
+
+K = 8, N = 15
+
+processor:
+utilization: Ua/Us = 0.003196%
+flow: Xa/Xs = 0.003196%
+average jobs: Ja/Js = -0.040859%
+
+system disk 0:
+utilization: Ua/Us = 0.058502%
+flow: Xa/Xs = 0.058502%
+average jobs: Ja/Js = -0.031796%
+
+system disk 1:
+utilization: Ua/Us = -0.058520%
+flow: Xa/Xs = -0.058520%
+average jobs: Ja/Js = -0.028194%
+
+user disk 0:
+utilization: Ua/Us = -0.002276%
+flow: Xa/Xs = -0.002276%
+average jobs: Ja/Js = -0.114451%
+
+user disk 1:
+utilization: Ua/Us = -0.079623%
+flow: Xa/Xs = -0.079623%
+average jobs: Ja/Js = -0.216502%
+
+user disk 2:
+utilization: Ua/Us = 0.120750%
+flow: Xa/Xs = 0.120750%
+average jobs: Ja/Js = 0.126763%
+
+user disk 3:
+utilization: Ua/Us = -0.137416%
+flow: Xa/Xs = -0.137416%
+average jobs: Ja/Js = -0.006096%
+
+user disk 4:
+utilization: Ua/Us = 0.248398%
+flow: Xa/Xs = 0.248398%
+average jobs: Ja/Js = 0.379795%
+
+user disk 5:
+utilization: Ua/Us = -0.108703%
+flow: Xa/Xs = -0.108703%
+average jobs: Ja/Js = -0.237681%
+
+user disk 6:
+utilization: Ua/Us = -0.035447%
+flow: Xa/Xs = -0.035447%
+average jobs: Ja/Js = -0.110151%
+
+user disk 7:
+utilization: Ua/Us = 0.083436%
+flow: Xa/Xs = 0.083436%
+average jobs: Ja/Js = 0.088656%
+
+System reaction time: Ra/Rs = 0.012261%
+
+
+K = 8, N = 25
+
+processor:
+utilization: Ua/Us = 0.000314%
+flow: Xa/Xs = 0.000314%
+average jobs: Ja/Js = -0.091378%
+
+system disk 0:
+utilization: Ua/Us = 0.171847%
+flow: Xa/Xs = 0.171847%
+average jobs: Ja/Js = 0.347135%
+
+system disk 1:
+utilization: Ua/Us = 0.154940%
+flow: Xa/Xs = 0.154940%
+average jobs: Ja/Js = 0.072585%
+
+user disk 0:
+utilization: Ua/Us = -0.030643%
+flow: Xa/Xs = -0.030643%
+average jobs: Ja/Js = 0.076181%
+
+user disk 1:
+utilization: Ua/Us = 0.005451%
+flow: Xa/Xs = 0.005451%
+average jobs: Ja/Js = 0.204958%
+
+user disk 2:
+utilization: Ua/Us = 0.098256%
+flow: Xa/Xs = 0.098256%
+average jobs: Ja/Js = 0.316331%
+
+user disk 3:
+utilization: Ua/Us = -0.011181%
+flow: Xa/Xs = -0.011181%
+average jobs: Ja/Js = 0.122524%
+
+user disk 4:
+utilization: Ua/Us = 0.015493%
+flow: Xa/Xs = 0.015493%
+average jobs: Ja/Js = 0.147368%
+
+user disk 5:
+utilization: Ua/Us = 0.043923%
+flow: Xa/Xs = 0.043923%
+average jobs: Ja/Js = 0.172252%
+
+user disk 6:
+utilization: Ua/Us = 0.020018%
+flow: Xa/Xs = 0.020018%
+average jobs: Ja/Js = 0.125393%
+
+user disk 7:
+utilization: Ua/Us = 0.064938%
+flow: Xa/Xs = 0.064938%
+average jobs: Ja/Js = 0.116049%
+
+System reaction time: Ra/Rs = -0.022418%
+
+

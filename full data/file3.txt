@@ -1,0 +1,945 @@
+K = 2, N = 10
+
+processor:
+utilization: U = 52.282374%
+flow: X = 0.104565
+average jobs: J = 1.050022
+
+system disk 0:
+utilization: U = 18.821655%
+flow: X = 0.015685
+average jobs: J = 0.230799
+
+system disk 1:
+utilization: U = 23.527068%
+flow: X = 0.015685
+average jobs: J = 0.305645
+
+user disk 0:
+utilization: U = 88.880036%
+flow: X = 0.044440
+average jobs: J = 4.180035
+
+user disk 1:
+utilization: U = 88.880036%
+flow: X = 0.044440
+average jobs: J = 4.180035
+
+System reaction time: R = 95.634525
+
+
+K = 2, N = 15
+
+processor:
+utilization: U = 54.606177%
+flow: X = 0.109212
+average jobs: J = 1.180335
+
+system disk 0:
+utilization: U = 19.658224%
+flow: X = 0.016382
+average jobs: J = 0.244223
+
+system disk 1:
+utilization: U = 24.572780%
+flow: X = 0.016382
+average jobs: J = 0.324902
+
+user disk 0:
+utilization: U = 92.830500%
+flow: X = 0.046415
+average jobs: J = 6.608151
+
+user disk 1:
+utilization: U = 92.830500%
+flow: X = 0.046415
+average jobs: J = 6.608151
+
+System reaction time: R = 137.347100
+
+
+K = 2, N = 25
+
+processor:
+utilization: U = 56.366695%
+flow: X = 0.112733
+average jobs: J = 1.283671
+
+system disk 0:
+utilization: U = 20.292010%
+flow: X = 0.016910
+average jobs: J = 0.254421
+
+system disk 1:
+utilization: U = 25.365013%
+flow: X = 0.016910
+average jobs: J = 0.339551
+
+user disk 0:
+utilization: U = 95.823382%
+flow: X = 0.047912
+average jobs: J = 11.551211
+
+user disk 1:
+utilization: U = 95.823382%
+flow: X = 0.047912
+average jobs: J = 11.551211
+
+System reaction time: R = 221.762159
+
+
+K = 3, N = 10
+
+processor:
+utilization: U = 68.172659%
+flow: X = 0.136345
+average jobs: J = 1.798464
+
+system disk 0:
+utilization: U = 24.542157%
+flow: X = 0.020452
+average jobs: J = 0.321184
+
+system disk 1:
+utilization: U = 30.677696%
+flow: X = 0.020452
+average jobs: J = 0.434314
+
+user disk 0:
+utilization: U = 77.262347%
+flow: X = 0.038631
+average jobs: J = 2.479385
+
+user disk 1:
+utilization: U = 77.262347%
+flow: X = 0.038631
+average jobs: J = 2.479385
+
+user disk 2:
+utilization: U = 77.262347%
+flow: X = 0.038631
+average jobs: J = 2.479385
+
+System reaction time: R = 73.343186
+
+
+K = 3, N = 15
+
+processor:
+utilization: U = 74.448307%
+flow: X = 0.148897
+average jobs: J = 2.521674
+
+system disk 0:
+utilization: U = 26.801391%
+flow: X = 0.022334
+average jobs: J = 0.363741
+
+system disk 1:
+utilization: U = 33.501738%
+flow: X = 0.022334
+average jobs: J = 0.498736
+
+user disk 0:
+utilization: U = 84.374748%
+flow: X = 0.042187
+average jobs: J = 3.871021
+
+user disk 1:
+utilization: U = 84.374748%
+flow: X = 0.042187
+average jobs: J = 3.871021
+
+user disk 2:
+utilization: U = 84.374748%
+flow: X = 0.042187
+average jobs: J = 3.871021
+
+System reaction time: R = 100.741042
+
+
+K = 3, N = 25
+
+processor:
+utilization: U = 80.003311%
+flow: X = 0.160007
+average jobs: J = 3.627731
+
+system disk 0:
+utilization: U = 28.801192%
+flow: X = 0.024001
+average jobs: J = 0.403461
+
+system disk 1:
+utilization: U = 36.001490%
+flow: X = 0.024001
+average jobs: J = 0.560239
+
+user disk 0:
+utilization: U = 90.670419%
+flow: X = 0.045335
+average jobs: J = 6.802598
+
+user disk 1:
+utilization: U = 90.670419%
+flow: X = 0.045335
+average jobs: J = 6.802598
+
+user disk 2:
+utilization: U = 90.670419%
+flow: X = 0.045335
+average jobs: J = 6.802598
+
+System reaction time: R = 156.243534
+
+
+K = 4, N = 10
+
+processor:
+utilization: U = 78.074920%
+flow: X = 0.156150
+average jobs: J = 2.473312
+
+system disk 0:
+utilization: U = 28.106971%
+flow: X = 0.023422
+average jobs: J = 0.383510
+
+system disk 1:
+utilization: U = 35.133714%
+flow: X = 0.023422
+average jobs: J = 0.525854
+
+user disk 0:
+utilization: U = 66.363682%
+flow: X = 0.033182
+average jobs: J = 1.653616
+
+user disk 1:
+utilization: U = 66.363682%
+flow: X = 0.033182
+average jobs: J = 1.653616
+
+user disk 2:
+utilization: U = 66.363682%
+flow: X = 0.033182
+average jobs: J = 1.653616
+
+user disk 3:
+utilization: U = 66.363682%
+flow: X = 0.033182
+average jobs: J = 1.653616
+
+System reaction time: R = 64.041052
+
+
+K = 4, N = 15
+
+processor:
+utilization: U = 87.094395%
+flow: X = 0.174189
+average jobs: J = 4.209660
+
+system disk 0:
+utilization: U = 31.353982%
+flow: X = 0.026128
+average jobs: J = 0.451795
+
+system disk 1:
+utilization: U = 39.192478%
+flow: X = 0.026128
+average jobs: J = 0.633325
+
+user disk 0:
+utilization: U = 74.030235%
+flow: X = 0.037015
+average jobs: J = 2.426080
+
+user disk 1:
+utilization: U = 74.030235%
+flow: X = 0.037015
+average jobs: J = 2.426080
+
+user disk 2:
+utilization: U = 74.030235%
+flow: X = 0.037015
+average jobs: J = 2.426080
+
+user disk 3:
+utilization: U = 74.030235%
+flow: X = 0.037015
+average jobs: J = 2.426080
+
+System reaction time: R = 86.113464
+
+
+K = 4, N = 25
+
+processor:
+utilization: U = 95.021055%
+flow: X = 0.190042
+average jobs: J = 8.839564
+
+system disk 0:
+utilization: U = 34.207580%
+flow: X = 0.028506
+average jobs: J = 0.517742
+
+system disk 1:
+utilization: U = 42.759475%
+flow: X = 0.028506
+average jobs: J = 0.741737
+
+user disk 0:
+utilization: U = 80.767897%
+flow: X = 0.040384
+average jobs: J = 3.725161
+
+user disk 1:
+utilization: U = 80.767897%
+flow: X = 0.040384
+average jobs: J = 3.725161
+
+user disk 2:
+utilization: U = 80.767897%
+flow: X = 0.040384
+average jobs: J = 3.725161
+
+user disk 3:
+utilization: U = 80.767897%
+flow: X = 0.040384
+average jobs: J = 3.725161
+
+System reaction time: R = 131.549791
+
+
+K = 5, N = 10
+
+processor:
+utilization: U = 84.041184%
+flow: X = 0.168082
+average jobs: J = 3.001749
+
+system disk 0:
+utilization: U = 30.254826%
+flow: X = 0.025212
+average jobs: J = 0.423881
+
+system disk 1:
+utilization: U = 37.818533%
+flow: X = 0.025212
+average jobs: J = 0.586511
+
+user disk 0:
+utilization: U = 57.148005%
+flow: X = 0.028574
+average jobs: J = 1.196994
+
+user disk 1:
+utilization: U = 57.148005%
+flow: X = 0.028574
+average jobs: J = 1.196994
+
+user disk 2:
+utilization: U = 57.148005%
+flow: X = 0.028574
+average jobs: J = 1.196994
+
+user disk 3:
+utilization: U = 57.148005%
+flow: X = 0.028574
+average jobs: J = 1.196994
+
+user disk 4:
+utilization: U = 57.148005%
+flow: X = 0.028574
+average jobs: J = 1.196994
+
+System reaction time: R = 59.494640
+
+
+K = 5, N = 15
+
+processor:
+utilization: U = 93.533736%
+flow: X = 0.187067
+average jobs: J = 5.678828
+
+system disk 0:
+utilization: U = 33.672145%
+flow: X = 0.028060
+average jobs: J = 0.501794
+
+system disk 1:
+utilization: U = 42.090181%
+flow: X = 0.028060
+average jobs: J = 0.712829
+
+user disk 0:
+utilization: U = 63.602940%
+flow: X = 0.031801
+average jobs: J = 1.620991
+
+user disk 1:
+utilization: U = 63.602940%
+flow: X = 0.031801
+average jobs: J = 1.620991
+
+user disk 2:
+utilization: U = 63.602940%
+flow: X = 0.031801
+average jobs: J = 1.620991
+
+user disk 3:
+utilization: U = 63.602940%
+flow: X = 0.031801
+average jobs: J = 1.620991
+
+user disk 4:
+utilization: U = 63.602940%
+flow: X = 0.031801
+average jobs: J = 1.620991
+
+System reaction time: R = 80.184972
+
+
+K = 5, N = 25
+
+processor:
+utilization: U = 99.214771%
+flow: X = 0.198430
+average jobs: J = 13.481642
+
+system disk 0:
+utilization: U = 35.717318%
+flow: X = 0.029764
+average jobs: J = 0.554503
+
+system disk 1:
+utilization: U = 44.646647%
+flow: X = 0.029764
+average jobs: J = 0.803655
+
+user disk 0:
+utilization: U = 67.466044%
+flow: X = 0.033733
+average jobs: J = 2.031797
+
+user disk 1:
+utilization: U = 67.466044%
+flow: X = 0.033733
+average jobs: J = 2.031797
+
+user disk 2:
+utilization: U = 67.466044%
+flow: X = 0.033733
+average jobs: J = 2.031797
+
+user disk 3:
+utilization: U = 67.466044%
+flow: X = 0.033733
+average jobs: J = 2.031797
+
+user disk 4:
+utilization: U = 67.466044%
+flow: X = 0.033733
+average jobs: J = 2.031797
+
+System reaction time: R = 125.989304
+
+
+K = 6, N = 10
+
+processor:
+utilization: U = 87.716639%
+flow: X = 0.175433
+average jobs: J = 3.397485
+
+system disk 0:
+utilization: U = 31.577990%
+flow: X = 0.026315
+average jobs: J = 0.450142
+
+system disk 1:
+utilization: U = 39.472487%
+flow: X = 0.026315
+average jobs: J = 0.626657
+
+user disk 0:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+user disk 1:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+user disk 2:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+user disk 3:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+user disk 4:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+user disk 5:
+utilization: U = 49.706095%
+flow: X = 0.024853
+average jobs: J = 0.920348
+
+System reaction time: R = 57.001728
+
+
+K = 6, N = 15
+
+processor:
+utilization: U = 96.522201%
+flow: X = 0.193044
+average jobs: J = 6.731507
+
+system disk 0:
+utilization: U = 34.747992%
+flow: X = 0.028957
+average jobs: J = 0.527078
+
+system disk 1:
+utilization: U = 43.434990%
+flow: X = 0.028957
+average jobs: J = 0.754374
+
+user disk 0:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+user disk 1:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+user disk 2:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+user disk 3:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+user disk 4:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+user disk 5:
+utilization: U = 54.695914%
+flow: X = 0.027348
+average jobs: J = 1.164078
+
+System reaction time: R = 77.702331
+
+
+K = 6, N = 25
+
+processor:
+utilization: U = 99.864804%
+flow: X = 0.199730
+average jobs: J = 15.825281
+
+system disk 0:
+utilization: U = 35.951329%
+flow: X = 0.029959
+average jobs: J = 0.560940
+
+system disk 1:
+utilization: U = 44.939162%
+flow: X = 0.029959
+average jobs: J = 0.815138
+
+user disk 0:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+user disk 1:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+user disk 2:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+user disk 3:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+user disk 4:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+user disk 5:
+utilization: U = 56.590055%
+flow: X = 0.028295
+average jobs: J = 1.299384
+
+System reaction time: R = 125.169224
+
+
+K = 7, N = 10
+
+processor:
+utilization: U = 90.082249%
+flow: X = 0.180164
+average jobs: J = 3.693851
+
+system disk 0:
+utilization: U = 32.429609%
+flow: X = 0.027025
+average jobs: J = 0.467779
+
+system disk 1:
+utilization: U = 40.537012%
+flow: X = 0.027025
+average jobs: J = 0.653990
+
+user disk 0:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 1:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 2:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 3:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 4:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 5:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+user disk 6:
+utilization: U = 43.754235%
+flow: X = 0.021877
+average jobs: J = 0.739996
+
+System reaction time: R = 55.504831
+
+
+K = 7, N = 15
+
+processor:
+utilization: U = 97.941985%
+flow: X = 0.195884
+average jobs: J = 7.449408
+
+system disk 0:
+utilization: U = 35.259114%
+flow: X = 0.029383
+average jobs: J = 0.539970
+
+system disk 1:
+utilization: U = 44.073893%
+flow: X = 0.029383
+average jobs: J = 0.776160
+
+user disk 0:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 1:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 2:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 3:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 4:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 5:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+user disk 6:
+utilization: U = 47.571821%
+flow: X = 0.023786
+average jobs: J = 0.890137
+
+System reaction time: R = 76.575945
+
+
+K = 7, N = 25
+
+processor:
+utilization: U = 99.968938%
+flow: X = 0.199938
+average jobs: J = 17.014424
+
+system disk 0:
+utilization: U = 35.988818%
+flow: X = 0.029991
+average jobs: J = 0.562095
+
+system disk 1:
+utilization: U = 44.986022%
+flow: X = 0.029991
+average jobs: J = 0.817328
+
+user disk 0:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 1:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 2:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 3:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 4:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 5:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+user disk 6:
+utilization: U = 48.556341%
+flow: X = 0.024278
+average jobs: J = 0.943257
+
+System reaction time: R = 125.038840
+
+
+K = 8, N = 10
+
+processor:
+utilization: U = 91.677984%
+flow: X = 0.183356
+average jobs: J = 3.919511
+
+system disk 0:
+utilization: U = 33.004074%
+flow: X = 0.027503
+average jobs: J = 0.480092
+
+system disk 1:
+utilization: U = 41.255093%
+flow: X = 0.027503
+average jobs: J = 0.673285
+
+user disk 0:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 1:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 2:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 3:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 4:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 5:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 6:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+user disk 7:
+utilization: U = 38.963143%
+flow: X = 0.019482
+average jobs: J = 0.615251
+
+System reaction time: R = 54.538721
+
+
+K = 8, N = 15
+
+processor:
+utilization: U = 98.666691%
+flow: X = 0.197333
+average jobs: J = 7.946351
+
+system disk 0:
+utilization: U = 35.520009%
+flow: X = 0.029600
+average jobs: J = 0.546954
+
+system disk 1:
+utilization: U = 44.400011%
+flow: X = 0.029600
+average jobs: J = 0.788256
+
+user disk 0:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 1:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 2:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 3:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 4:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 5:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 6:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+user disk 7:
+utilization: U = 41.933344%
+flow: X = 0.020967
+average jobs: J = 0.714267
+
+System reaction time: R = 76.013495
+
+
+K = 8, N = 25
+
+processor:
+utilization: U = 99.990485%
+flow: X = 0.199981
+average jobs: J = 17.704517
+
+system disk 0:
+utilization: U = 35.996574%
+flow: X = 0.029997
+average jobs: J = 0.562361
+
+system disk 1:
+utilization: U = 44.995718%
+flow: X = 0.029997
+average jobs: J = 0.817864
+
+user disk 0:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 1:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 2:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 3:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 4:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 5:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 6:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+user disk 7:
+utilization: U = 42.495956%
+flow: X = 0.021248
+average jobs: J = 0.738881
+
+System reaction time: R = 125.011895
+
+
